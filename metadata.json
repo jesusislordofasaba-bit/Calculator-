@@ -1,0 +1,6 @@
+{
+  "name": "OmniCalc Pro",
+  "description": "High-precision calculator suite with standard, scientific, programmer bitwise, unit converter, and financial tools with calculation tape history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
